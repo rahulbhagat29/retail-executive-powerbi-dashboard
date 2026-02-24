@@ -1,4 +1,5 @@
 📊 Retail Executive Revenue & Margin Performance Analysis
+
 📌 Business Problem
 
 A multi-category retail business experienced steady revenue growth between 2022 and 2024. However, leadership lacked visibility into whether growth was sustainable, margin-efficient, and evenly distributed across products, regions, and customer segments.
