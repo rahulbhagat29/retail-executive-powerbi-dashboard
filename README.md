@@ -125,3 +125,5 @@ Implement drill-through product detail page
 Incorporate customer lifetime value modeling
 Build decomposition tree for dynamic revenue breakdown
 Automate data refresh pipeline for monthly executive reporting
+
+LinkedIn : https://www.linkedin.com/in/rahul-bhagat-6439853b4/?trk=opento_sprofile_topcard
