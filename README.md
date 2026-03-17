@@ -1,5 +1,11 @@
 📊 Retail Executive Revenue & Margin Performance Analysis
 
+<img width="1630" height="1075" alt="Retail Executive Revenue   Margin Performance Overview" src="https://github.com/user-attachments/assets/a611d66c-7842-4fd5-811d-5cc6025f7d04" />
+
+<img width="1557" height="1096" alt="Revenue Drivers   Profitability Risk Analysis" src="https://github.com/user-attachments/assets/641d746f-0b5f-469a-b503-fea8e9a73f98" />
+
+<img width="1647" height="1089" alt="Customer   Segment Performance Analysis" src="https://github.com/user-attachments/assets/33e54067-c239-4c46-b395-9642a68cbeaf" />
+
 📌 Business Problem
 
 A multi-category retail business experienced steady revenue growth between 2022 and 2024. However, leadership lacked visibility into whether growth was sustainable, margin-efficient, and evenly distributed across products, regions, and customer segments.
